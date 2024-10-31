@@ -1,0 +1,10 @@
+//profile-title: base64:V0FSUCAoSVJDRik=
+//profile-update-interval: 24
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
+//support-url: https://t.me/ircfspace
+//profile-web-page-url: https://ircf.space
+warp://162.159.192.24:894/?ifp=10-20&ifps=10-20&ifpd=1-2&ifpm=m4#A
+warp://auto?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#B
+warp://188.114.97.164:4500/?ifp=10-20&ifps=10-20&ifpd=1-2&ifpm=m4#C
+warp://188.114.97.163:500?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#D
+warp://188.114.97.172:4500/?ifp=10-20&ifps=10-20&ifpd=1-2&ifpm=m4#E
