@@ -1,0 +1,12 @@
+//profile-update-interval: 24
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+
+warp://162.159.192.24:894/?ifp=10-20&ifps=10-20&ifpd=1-2&ifpm=m4#1
+warp://188.114.97.164:4500/?ifp=10-20&ifps=10-20&ifpd=1-2&ifpm=m4#2
+warp://188.114.97.163:500?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#3
+warp://188.114.97.172:4500/?ifp=10-20&ifps=10-20&ifpd=1-2&ifpm=m4#4
+warp://[2606:4700:d0::de17:94ef:e206:9bee]:968/?ifp=10-20&ifps=10-20&ifpd=1-2&ifpm=m4#ipv6.1
+warp://[2606:4700:d1::a66b:f523:3979:2a40]:878?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#ipv6.2
+warp://[2606:4700:d1::e7aa:24d4:d4c8:a41e]:968/?ifp=10-20&ifps=10-20&ifpd=1-2&ifpm=m4#ipv6.3
+warp://188.114.99.29:1387/?ifp=10-20&ifps=10-20&ifpd=1-2&ifpm=m4#5
+warp://188.114.99.41:942?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#6
